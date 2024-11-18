@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg-img{
+    width: 100%;
+    min-height: 600px;
+    background-image: url(../src/assets/ecommerce3-2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
